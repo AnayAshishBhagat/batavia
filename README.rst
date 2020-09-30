@@ -5,7 +5,7 @@ Batavia is currently on hiatus
 Python on the Web is still a goal that is important to the BeeWare project;
 however, the approach that is being used by Batavia needs to be reconsidered.
 In particular, the emergence of WASM as a viable target for web development
-opens many options for Python on the web that weren't previously possible.
+opens many options for Python on the web that weren't previously possible.Python is simple language
 
 As a result, we're not dedicating any BeeWare resources to Batavia development,
 and we we're not encouraging other to contribute to VOC at this time.
